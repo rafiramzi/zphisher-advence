@@ -6,7 +6,7 @@ i fixed the longtime loading server, and this link now can opened in PUBLIC serv
 
 
 -Getting started
-just start with typing "bash zphizher.sh" and input your current IP Addres (other than 127.0.0.1) and input port (other than 8080)
+Go to the "zphisher-advance" Dicrectory and start with typing "bash zphizher.sh" and input your current IP Addres (other than 127.0.0.1) and input port (other than 8080)
 and hit enter
 
      EXAMPLE:
